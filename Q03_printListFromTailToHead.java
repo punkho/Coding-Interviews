@@ -4,7 +4,7 @@ import java.util.Stack;
 /**
  * 输入一个链表，按链表值从尾到头的顺序返回一个ArrayList。
  */
-public class Q03_printListFromTailToHead {
+public class Q03_PrintListFromTailToHead {
     public class ListNode {
         int val;
         ListNode next = null;

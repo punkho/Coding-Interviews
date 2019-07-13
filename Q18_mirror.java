@@ -1,7 +1,7 @@
 /**
  * 操作给定的二叉树，将其变换为源二叉树的镜像。
  */
-public class Q18_mirror {
+public class Q18_Mirror {
     public class TreeNode {
         int val = 0;
         TreeNode left = null;

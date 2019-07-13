@@ -1,7 +1,7 @@
 /**
  * 输入一个链表，反转链表后，输出新链表的表头。
  */
-public class Q15_reverseList {
+public class Q15_ReverseList {
     public class ListNode {
         int val;
         ListNode next = null;

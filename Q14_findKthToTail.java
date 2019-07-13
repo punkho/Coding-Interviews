@@ -1,7 +1,7 @@
 /**
  * 输入一个链表，输出该链表中倒数第k个结点。
  */
-public class Q14_findKthToTail {
+public class Q14_FindKthToTail {
     public class ListNode {
         int val;
         ListNode next = null;
